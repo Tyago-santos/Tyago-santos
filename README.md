@@ -11,7 +11,7 @@ Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
 <h2 align="center">📄 Meu Currículo</h2>
 
 <p align="center">
-  <a href="https://github.com/Tyago-santos/curriculo/raw/main/curriculo_tiago_dev.pdf">
+  <a href="https://github.com/Tyago-santos/Tyago-santos/raw/refs/heads/main/curriculo/curriculo_tiago_dev.pdf">
     <img src="https://img.shields.io/badge/📄%20Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
