@@ -8,7 +8,17 @@ Desenvolvedor Web em formação focado em JavaScript, React e Node.js
 Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
 </p>
 
-[Baixar Currículo](https://github.com/seuusuario/curriculo/blob/main/curriculo.pdf)
+<h2 align="center">📄 Meu Currículo</h2>
+
+<p align="center">
+  <a href="https://github.com/Tyago-santos/curriculo/raw/main/curriculo_tiago_dev.pdf">
+    <img src="https://img.shields.io/badge/📄%20Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+Desenvolvedor Web focado em React, Node.js e JavaScript
+</p>
 
 ---
 
