@@ -17,10 +17,33 @@ Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
 </p>
 
 <p align="center">
-Desenvolvedor Web focado em React, Node.js e JavaScript
+Desenvolvedor Web focado desenvolvimento FullStack
 </p>
 
 ---
+
+
+<h2 align="center">🌎 Contato</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tiago-santos-b10165376/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Tiago%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:xlzthyago@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/557781583269" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Falar%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://portifolio-cc1be.firebaseapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 <h2 align="center">🚀 Tecnologias</h2>
 
@@ -36,7 +59,7 @@ Desenvolvedor Web focado em React, Node.js e JavaScript
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tyago-santos&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tyago-santos&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyago-santos&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -62,27 +85,7 @@ Desenvolvedor Web focado em React, Node.js e JavaScript
 
 ---
 
-<h2 align="center">🌎 Contato</h2>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/tiago-santos-b10165376/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Tiago%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:xlzthyago@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/557781583269" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Falar%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://portifolio-cc1be.firebaseapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
 
 
 ---
