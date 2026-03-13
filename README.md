@@ -54,23 +54,24 @@ Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tiago-santos-b10165376/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/tiago-santos-b10165376/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Tiago%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:xlzthyago@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/557781583269">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/557781583269" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Falar%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://portifolio-cc1be.firebaseapp.com/">
-<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portifolio-cc1be.firebaseapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
