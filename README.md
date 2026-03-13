@@ -8,6 +8,8 @@ Desenvolvedor Web em formação focado em JavaScript, React e Node.js
 Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
 </p>
 
+[Baixar Currículo](https://github.com/seuusuario/curriculo/blob/main/curriculo.pdf)
+
 ---
 
 <h2 align="center">🚀 Tecnologias</h2>
