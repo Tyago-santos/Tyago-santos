@@ -47,11 +47,66 @@ Desenvolvedor Web focado desenvolvimento FullStack
 
 <h2 align="center">🚀 Tecnologias</h2>
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mysql,git" />
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+HTML
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
+TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=next" width="48"/><br>
+Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
+Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+Git
+</td>
+</tr>
+</table>
+
 
 ---
 
