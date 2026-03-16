@@ -1,12 +1,17 @@
 <h1 align="center">Olá 👋, eu sou Tiago Santos</h1>
 
 <p align="center">
-Desenvolvedor Web em formação focado em JavaScript, React e Node.js
+
+🎓 Estudante de <b>Ciência da Computação</b> na Uninter — 3º semestre.  
+
+💻 Desenvolvedor web em formação, apaixonado por tecnologia e pela criação de soluções digitais modernas e eficientes.  
+
+📚 Busco constantemente evoluir minhas habilidades, estudando boas práticas de desenvolvimento, organização de código e construção de aplicações bem estruturadas.  
+
+🚀 Atualmente estou em busca de uma <b>oportunidade de estágio ou vaga como desenvolvedor júnior</b>, onde eu possa contribuir em projetos reais, aprender com profissionais experientes e continuar crescendo na área de tecnologia.
+
 </p>
 
-<p align="center">
-Buscando oportunidade de <b>estágio ou posição como desenvolvedor júnior</b>
-</p>
 
 <h2 align="center">📄 Meu Currículo</h2>
 
@@ -114,7 +119,6 @@ Git
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tyago-santos&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyago-santos&layout=compact&theme=github_dark&hide_border=true"/>
 
