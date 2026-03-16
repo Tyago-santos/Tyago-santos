@@ -12,10 +12,9 @@
 
 </p>
 
-
-<h2 align="center">📄 Meu Currículo</h2>
-
 <p align="center">
+
+  
 <a href="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/curriculo_tiago_dev.pdf" download>
 <img src="https://img.shields.io/badge/Download-Currículo-blue?style=for-the-badge">
 </a>
