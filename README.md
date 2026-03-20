@@ -1,6 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Tiago Santos</h1>
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td width="50%">
+
+<h2>👋 Sobre mim</h2>
 
 🎓 Estudante de <b>Ciência da Computação</b> na Uninter — 3º semestre.  
 
@@ -8,9 +13,18 @@
 
 📚 Busco constantemente evoluir minhas habilidades, estudando boas práticas de desenvolvimento, organização de código e construção de aplicações bem estruturadas.  
 
-🚀 Atualmente estou em busca de uma <b>oportunidade de estágio ou vaga como desenvolvedor júnior</b>, onde eu possa contribuir em projetos reais, aprender com profissionais experientes e continuar crescendo na área de tecnologia.
+🚀 Atualmente estou em busca de uma <b>oportunidade de estágio ou vaga como desenvolvedor júnior</b>.
 
-</p>
+</td>
+
+<td width="50%" align="center">
+
+<img src="./assets/perfil.png" width="300px" />
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
 
