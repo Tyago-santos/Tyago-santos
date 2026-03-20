@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas🚀" />
 </p>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
 <tr>
 
-<td width="50%">
+<td width="50%" style="border: none;">
 
 <h2 align="center">👋 Sobre mim</h2>
 
@@ -19,14 +19,15 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" style="background: transparent; padding:0; border: none;" align="center">
 
-<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif" width="300px" />
+<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif?raw=true" 
+     width="300px" />
 
 </td>
 
 </tr>
-</table>
+</table>>
 
 <p align="center">
 
