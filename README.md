@@ -21,7 +21,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.png" width="300px" />
+<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif" width="300px" />
 
 </td>
 
