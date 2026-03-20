@@ -5,7 +5,7 @@
 
 <td width="50%">
 
-<h2>👋 Sobre mim</h2>
+<h2 align="center">👋 Sobre mim</h2>
 
 🎓 Estudante de <b>Ciência da Computação</b> na Uninter — 3º semestre.  
 
@@ -19,7 +19,7 @@
 
 <td width="50%" align="center">
 
-<img src="./assets/perfil.png" width="300px" />
+<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.png" width="300px" />
 
 </td>
 
