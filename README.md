@@ -27,7 +27,7 @@
 </td>
 
 </tr>
-</table>>
+</table>
 
 <p align="center">
 
