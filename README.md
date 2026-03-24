@@ -22,7 +22,7 @@
 <td width="50%" style="background: transparent; padding:0; border: none;" align="center">
 
 <img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif?raw=true" 
-     width="300px" />
+     width="280px" />
 
 </td>
 
