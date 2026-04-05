@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas🚀" />
 </p>
 
 <table align="center" style="border-collapse: collapse; border: none;">
