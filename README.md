@@ -132,7 +132,7 @@ Git
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center"> 
-  <img height="170" src="https://streak-stats.demolab.com?user=Tyago-santos&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Tyago-santos&theme=github-dark&hide_border=true&locale=pt-br"/>
 </p>
 
 ---
