@@ -131,11 +131,8 @@ Git
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<p align="center">
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyago-santos&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center"> 
+  <img height="170" src="https://streak-stats.demolab.com?user=Tyago-santos&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
