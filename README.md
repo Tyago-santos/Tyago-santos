@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas🚀" />
 </p>
-
 <table align="center" style="border-collapse: collapse; border: none;">
 <tr>
 
@@ -22,7 +21,8 @@
 <td width="50%" style="background: transparent; padding:0; border: none;" align="center">
 
 <img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif?raw=true" 
-     width="280px" />
+     width="280px"
+     style="border-radius: 50%; object-fit: cover;" />
 
 </td>
 
