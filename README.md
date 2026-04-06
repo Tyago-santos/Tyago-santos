@@ -141,7 +141,7 @@ Git
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyago-santos&theme=github-dark&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyago-santos&theme=github-dark&color=2E8B57&line=2E8B57&point=2E8B57&area=true&hide_border=true&locale=pt-br"/>
 
 </p>
 
