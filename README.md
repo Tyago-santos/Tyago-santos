@@ -123,6 +123,12 @@ MySQL
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>
 Git
 </td>
+
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+Docker
+</td>
 </tr>
 </table>
 
