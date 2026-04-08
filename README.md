@@ -67,73 +67,27 @@
 <h2 align="center">🚀 Tecnologias</h2>
 
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
-HTML
-</td>
+<p align="center">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
-CSS
-</td>
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
-Tailwind
-</td>
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
-JavaScript
-</td>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
-TypeScript
-</td>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
-React
-</td>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=next" width="48"/><br>
-Next.js
-</td>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
-Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
-Express
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-Git
-</td>
-
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
-Docker
-</td>
-</tr>
-</table>
-
-
----
 
 <h2 align="center">📊 Estatísticas</h2>
 
