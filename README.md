@@ -32,7 +32,7 @@
 <p align="center">
 
   
-<a href="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/curriculo_tiago_ful_stack.pdf" download="curriculo_tiago">
+<a href="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/curriculo_tiago_ful_stack.pdf" download="curriculo_tiago.pdf">
 <img src="https://img.shields.io/badge/Download-Currículo-blue?style=for-the-badge">
 </a>
 </p>
