@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=mongodb&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=339933"/>
 
 </p>
 
