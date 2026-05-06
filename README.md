@@ -96,8 +96,8 @@
 
 
 <p align="center">
-  <img  style="margin-right: 10px;" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tyago-santos&theme=github_dark" />
-  <img  width="290px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" />
+  <img  style="margin-right: 10px;" width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tyago-santos&theme=github_dark&locale=pt-br" />
+  <img  width="290px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark&locale=pt-br" />
 </p>
 
 <h2 align="center">📈 Contribuições</h2>
