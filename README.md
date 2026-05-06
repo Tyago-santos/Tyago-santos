@@ -94,11 +94,11 @@
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<p align="center"> 
-  <img height="170" src="https://streak-stats.demolab.com?user=Tyago-santos&theme=github-dark&hide_border=true&locale=pt-br"/>
-</p>
 
----
+<p align="center">
+  <img  style="margin-right: 10px;" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tyago-santos&theme=github_dark" />
+  <img  width="290px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" />
+</p>
 
 <h2 align="center">📈 Contribuições</h2>
 
