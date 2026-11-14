@@ -44,51 +44,89 @@
 
 ## 💼 Experiência
 
-### 🏢 Vittal Web — Estagiário de Desenvolvimento
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-`Jun/2026 – Nov/2026` • *Setor de Inteligência Artificial, Sistemas e Automação*
+#### 🏢 Vittal Web
+
+`Jun/2026 – Nov/2026` • **Estagiário de Desenvolvimento**
+
+<sub><i>Setor de Inteligência Artificial, Sistemas e Automação</i></sub>
 
 - Softwares **Full Stack** com Node.js, Express e React — da interface à API e produção
 - **Agentes de IA** e automações para otimizar processos internos e eliminar tarefas manuais
 - Levantamento de requisitos, modelagem de dados e integração com serviços externos
 - Correção de bugs, testes, Git/GitHub e acompanhamento das demandas
 
-### 🏢 Vittal Web — Desenvolvedor Freelancer
+</td>
+<td width="50%" valign="top">
 
-`Jun/2026 – Jul/2026`
+#### 🏢 Vittal Web
+
+`Jun/2026 – Jul/2026` • **Desenvolvedor Freelancer**
 
 - Entrega de projeto web **Full Stack** com Node.js, Express e React em **um mês**
-- Ciclo completo de implementação: planejamento → desenvolvimento → deploy
-- Atuação no ciclo completo antes da efetivação no programa de estágio da equipe
+- Ciclo completo: planejamento → desenvolvimento → deploy
+- Atuação no ciclo completo antes da efetivação no programa de estágio
 
-### 🎓 Formação
+<br>
+
+#### 🎓 Formação
 
 - **Sistemas de Informação** — Bacharelado, **UNEX**
 - Em andamento • 1º semestre
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Projetos
 
-> #### 🔹 [Gnosis IA](https://github.com/Tyago-santos/ia_study)
-> Plataforma de estudos com Inteligência Artificial — gera materiais de estudo a partir do conteúdo do usuário.
->
-> <sub><code>Node.js</code> <code>PostgreSQL</code> <code>React</code> <code>React Native</code></sub>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-> #### 🔹 [Polearn](https://github.com/Tyago-santos/polearn)
-> Plataforma de aprendizado de idiomas com questões geradas por Inteligência Artificial.
->
-> <sub><code>React</code> <code>TypeScript</code> <code>Firebase</code></sub>
+#### 🔹 [Gnosis IA](https://github.com/Tyago-santos/ia_study)
 
-> #### 🔹 [Connect Dev](https://github.com/Tyago-santos/connect-dev)
-> Rede social para desenvolvedores com posts, curtidas, comentários e sistema de seguidores.
->
-> <sub><code>Node.js</code> <code>Express</code> <code>TypeScript</code></sub>
+Plataforma de estudos com Inteligência Artificial — gera materiais a partir do conteúdo do usuário.
 
-> #### 🔹 [Promise](https://github.com/Tyago-santos/promise)
-> Rede social para conexão e novas amizades dentro da comunidade cristã.
->
-> <sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code></sub>
+<sub><code>Node.js</code> <code>PostgreSQL</code> <code>React</code> <code>React Native</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Polearn](https://github.com/Tyago-santos/polearn)
+
+Plataforma de aprendizado de idiomas com questões geradas por Inteligência Artificial.
+
+<sub><code>React</code> <code>TypeScript</code> <code>Firebase</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [Connect Dev](https://github.com/Tyago-santos/connect-dev)
+
+Rede social para desenvolvedores com posts, curtidas, comentários e sistema de seguidores.
+
+<sub><code>Node.js</code> <code>Express</code> <code>TypeScript</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Promise](https://github.com/Tyago-santos/promise)
+
+Rede social para conexão e novas amizades dentro da comunidade cristã.
+
+<sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code></sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Tyago-santos?tab=repositories">
@@ -100,50 +138,85 @@
 
 ## 🚀 Tecnologias
 
-### 🎨 Front-end
+<table align="center">
+<tr>
+<td width="34%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-</p>
+**🎨 Front-end**
 
-### ⚙️ Back-end & Dados
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=000000" alt="JWT"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
-</p>
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS"/>
 
-### 🤖 IA & Infra
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IA_&_Agentes-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="IA e Agentes"/>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**⚙️ Back-end & Dados**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs"/>
+
+<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=000000" alt="JWT"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
+
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED" alt="Prisma"/>
+
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
+
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🤖 IA & Infra**
+
+<img src="https://img.shields.io/badge/IA_&_Agentes-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="IA e Agentes"/>
+
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge" alt="LangChain"/>
+
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" alt="LangGraph"/>
+
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge" alt="RAG"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge" alt="Prompt Engineering"/>
+
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge" alt="MCP"/>
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
+
+<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
