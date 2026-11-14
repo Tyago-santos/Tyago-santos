@@ -25,7 +25,7 @@
 
 ### 👋 Sobre mim
 
-🎓 Estudante de <b>Sistemas de Informação</b> na <b>UNEX</b> — em andamento (1º semestre).
+🎓 Estudante de <b>Sistemas de Informação</b> na <b>UNEX</b> — em andamento.
 
 💼 Estágio de Desenvolvimento na <b>Vittal Web</b>, no setor de <b>Inteligência Artificial, Sistemas e Automação</b>.
 
