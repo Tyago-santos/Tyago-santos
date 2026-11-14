@@ -1,100 +1,96 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+Full+Stack+e+IA;Ciência+da+Computação+na+UNEX;Apaixonado+por+Tecnologia🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+Full+Stack+e+IA;Ciência+da+Computação+na+UNEX;Apaixonado+por+Tecnologia🚀" alt="Tiago Santos - Desenvolvedor Full Stack e IA"/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-santos-b10165376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:xlzthyago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://wa.me/557781583269" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://portfolio-tiago-kjf4.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Vitória%20da%20Conquista%20%E2%80%93%20BA-2ea44f?style=for-the-badge" alt="Localização"/>
+  <img src="https://img.shields.io/badge/🎓-Sistemas%20de%20Informação%20%E2%80%93%20UNEX-1f6feb?style=for-the-badge" alt="Formação"/>
+  <img src="https://img.shields.io/badge/💼-Estágio%20na%20Vittal%20Web-8250df?style=for-the-badge" alt="Estágio"/>
+  <img src="https://komarev.com/ghpvc/?username=Tyago-santos&color=brightgreen&style=for-the-badge" alt="Visualizações"/>
+</p>
+
+---
+
 <table align="center" style="border-collapse: collapse; border: none;">
 <tr>
 
-<td width="50%" style="border: none;">
+<td width="55%" style="border: none;">
 
-<h2 align="center">👋 Sobre mim</h2>
+### 👋 Sobre mim
 
-🎓 Estudante de <b>Sistemas de Informação</b> na UNEX — em andamento (1º semestre).
+🎓 Estudante de <b>Sistemas de Informação</b> na <b>UNEX</b> — em andamento (1º semestre).
 
-💼 Estágio de Desenvolvimento na <b>Vittal Web</b> no setor de <b>Inteligência Artificial, Sistemas e Automação</b>.
+💼 Estágio de Desenvolvimento na <b>Vittal Web</b>, no setor de <b>Inteligência Artificial, Sistemas e Automação</b>.
 
-💻 Desenvolvedor Full Stack com experiência prática em aplicações web, APIs REST e integração de <b>agentes de Inteligência Artificial</b> para automatizar processos e eliminar tarefas manuais.
+💻 Desenvolvedor <b>Full Stack</b> com experiência prática em aplicações web, APIs REST e integração de <b>agentes de Inteligência Artificial</b> para automatizar processos e eliminar tarefas manuais.
 
-📚 Busco constantemente evoluir minhas habilidades, estudando boas práticas de desenvolvimento, organização de código e construção de aplicações bem estruturadas.
+📚 Busco constantemente evoluir minhas habilidades: boas práticas, organização de código e aplicações bem estruturadas.
 
 🚀 Em busca de <b>oportunidades como desenvolvedor Full Stack / IA</b>.
 
+<p align="left">
+  <a href="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/curriculo_tiago_ful_stack.pdf" download="curriculo_tiago.pdf">
+    <img src="https://img.shields.io/badge/⬇️_Baixar_Currículo-1f6feb?style=for-the-badge" alt="Baixar Currículo"/>
+  </a>
+</p>
+
 </td>
 
-<td width="50%" style="background: transparent; padding:0; border: none;" align="center">
+<td width="45%" style="background: transparent; padding:0; border: none;" align="center">
 
-<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif?raw=true" 
-     width="280px"
-     style="border-radius: 50%; object-fit: cover;" />
+<img src="https://github.com/Tyago-santos/Tyago-santos/blob/main/.github/workflows/perfil.gif?raw=true"
+     width="300"
+     style="border-radius: 16px; object-fit: cover;" />
 
 </td>
 
 </tr>
 </table>
 
-<p align="center">
-
-  
-<a href="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/curriculo_tiago_ful_stack.pdf" download="curriculo_tiago.pdf">
-<img src="https://img.shields.io/badge/Download-Currículo-blue?style=for-the-badge">
-</a>
-</p>
-
-
-
 ---
-
-
-<h2 align="center">🌎 Contato</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/tiago-santos-b10165376/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Tiago%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:xlzthyago@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/557781583269" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Falar%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-tiago-kjf4.onrender.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
 
 <h2 align="center">💼 Experiência</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Vittal_Web-estagiário_de_Desenvolvimento-1f6feb?style=for-the-badge&logo=rocketchat&logoColor=white"/>
-<img src="https://img.shields.io/badge/IA,_Sistemas_e_Automação-Jun%2F2026_%E2%80%93_Nov%2F2026-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js,_Express_e_React-Full_Stack-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Agentes_de_IA_e_Automação-processos_internos-8250df?style=for-the-badge"/>
+#### 🏢 Vittal Web
+`Jun/2026 – Nov/2026` • **Estagiário de Desenvolvimento**
+<sub><i>Setor de Inteligência Artificial, Sistemas e Automação</i></sub>
 
-</p>
+- Softwares **Full Stack** com Node.js, Express e React — da interface à API e produção
+- **Agentes de IA** e automações para otimizar processos internos e eliminar tarefas manuais
+- Levantamento de requisitos, modelagem de dados e integração com serviços externos
+- Correção de bugs, testes, Git/GitHub e acompanhamento das demandas
 
-<details>
-<summary><b>Ver detalhes da experiência</b></summary>
+</td>
+<td width="50%" valign="top">
+
+#### 🏢 Vittal Web
+`Jun/2026 – Jul/2026` • **Desenvolvedor Freelancer**
+
+- Entrega de projeto web **Full Stack** com Node.js, Express e React em **um mês**
+- Ciclo completo de implementação: planejamento → desenvolvimento → deploy
+- Atuação no ciclo completo antes da efetivação no programa de estágio da equipe
 
 <br>
 
-**Vittal Web — Estagiário de Desenvolvimento** (Jun/2026 – Nov/2026)
-*Setor de Inteligência Artificial, Sistemas e Automação*
+#### 🎓 Formação
 
-- Desenvolvimento de softwares Full Stack com Node.js, Express e React — do planejamento e construção de interfaces à criação de APIs REST e entrega em produção.
-- Desenvolvimento de agentes de Inteligência Artificial e automações para otimizar processos internos, integrar fluxos de trabalho e eliminar tarefas manuais.
-- Levantamento de requisitos, definição de soluções técnicas, modelagem de bancos de dados e integração com serviços externos.
-- Correção de bugs, testes, versionamento em Git/GitHub e acompanhamento das demandas junto à equipe.
+- **Sistemas de Informação** — Bacharelado, UNEX
+- Em andamento • 1º semestre
 
-**Vittal Web — Desenvolvedor Freelancer** (Jun/2026 – Jul/2026)
-
-- Entrega de projeto web Full Stack com Node.js, Express e React em um mês, cobrindo o ciclo completo de implementação.
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,34 +98,101 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [Gnosis IA](https://github.com/Tyago-santos/ia_study)
-Plataforma de estudos com Inteligência Artificial — gera materiais de estudo a partir do conteúdo do usuário.
-`Node.js` `PostgreSQL` `React` `React Native`
+#### 🔹 [Gnosis IA](https://github.com/Tyago-santos/ia_study)
+Plataforma de estudos com Inteligência Artificial — gera materiais a partir do conteúdo do usuário.
+
+<sub><code>Node.js</code> <code>PostgreSQL</code> <code>React</code> <code>React Native</code></sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [Polearn](https://github.com/Tyago-santos/polearn)
+#### 🔹 [Polearn](https://github.com/Tyago-santos/polearn)
 Plataforma de aprendizado de idiomas com questões geradas por Inteligência Artificial.
-`React` `TypeScript` `Firebase`
+
+<sub><code>React</code> <code>TypeScript</code> <code>Firebase</code></sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [Connect Dev](https://github.com/Tyago-santos/connect-dev)
-Rede social para desenvolvedores com posts, curtidas, comentários e sistema de seguidores.
-`Node.js` `Express` `TypeScript`
+#### 🔹 [Connect Dev](https://github.com/Tyago-santos/connect-dev)
+Rede social para desenvolvedores: posts, curtidas, comentários e seguidores.
+
+<sub><code>Node.js</code> <code>Express</code> <code>TypeScript</code></sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 [Promise](https://github.com/Tyago-santos/promise)
+#### 🔹 [Promise](https://github.com/Tyago-santos/promise)
 Rede social para conexão e novas amizades dentro da comunidade cristã.
-`React` `Node.js` `PostgreSQL` `Supabase`
+
+<sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code></sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Tyago-santos?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_todos_os_30_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Tecnologias</h2>
+
+<table align="center">
+<tr>
+<td width="34%" align="center">
+
+**🎨 Front-end**
+
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</td>
+<td width="33%" align="center">
+
+**⚙️ Back-end & Dados**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+</td>
+<td width="33%" align="center">
+
+**🤖 IA & Infra**
+
+<img src="https://img.shields.io/badge/IA_&_Agentes-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </td>
 </tr>
@@ -137,84 +200,39 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-
-<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
-
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED"/>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Inteligência_Artificial-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge"/>
-
-</p>
-
 <h2 align="center">📊 Estatísticas</h2>
 
+<p align="center">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Tyago-santos&show_icons=true&include_all_commits=true&hide_border=true&border_radius=15&theme=tokyonight" alt="Stats"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyago-santos&layout=compact&hide_border=true&border_radius=15&theme=tokyonight" alt="Linguagens"/>
+  <img height="190px" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=15&theme=tokyonight" alt="Streak"/>
+</p>
 
 <p align="center">
-
-  <img  width="290px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark&locale=pt-br" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tyago-santos&no-frame=true&theme=tokyonight&row=1&column=7&margin-w=8" alt="Conquistas"/>
 </p>
 
 <h2 align="center">📈 Contribuições</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyago-santos&theme=github-dark&color=2E8B57&line=2E8B57&point=2E8B57&area=true&hide_border=true&locale=pt-br"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyago-santos&theme=tokyonight&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Gráfico de contribuições"/>
 </p>
 
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/output/pacman-contribution-graph-dark.svg" alt="Contribution Snake"/>
 </p>
-
----
-
-
-
+</details>
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=120&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  ⭐ <b>Obrigado por visitar meu perfil</b> ⭐<br/>
+  <sub>Feito com 💚 por Tiago Santos</sub>
 </p>
