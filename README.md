@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Vitória%20da%20Conquista%20%E2%80%93%20BA-2ea44f?style=for-the-badge" alt="Localização"/>
   <img src="https://img.shields.io/badge/🎓-Sistemas%20de%20Informação%20%E2%80%93%20UNEX-1f6feb?style=for-the-badge" alt="Formação"/>
-  <img src="https://img.shields.io/badge/💼-Estágio%20na%20Vittal%20Web-8250df?style=for-the-badge" alt="Estágio"/>
   <img src="https://komarev.com/ghpvc/?username=Tyago-santos&color=brightgreen&style=for-the-badge" alt="Visualizações"/>
 </p>
 
@@ -27,7 +26,7 @@
 
 🎓 Estudante de <b>Sistemas de Informação</b> na <b>UNEX</b> — em andamento.
 
-💼 Estágio de Desenvolvimento na <b>Vittal Web</b>, no setor de <b>Inteligência Artificial, Sistemas e Automação</b>.
+💼 Experiência profissional em <b>Inteligência Artificial, Sistemas e Automação</b> na <b>Vittal Web</b> (estágio e projetos freelance).
 
 💻 Desenvolvedor <b>Full Stack</b> com experiência prática em aplicações web, APIs REST e integração de <b>agentes de Inteligência Artificial</b> para automatizar processos e eliminar tarefas manuais.
 
@@ -86,7 +85,7 @@
 #### 🎓 Formação
 
 - **Sistemas de Informação** — Bacharelado, UNEX
-- Em andamento • 1º semestre
+- Em andamento
 
 </td>
 </tr>
