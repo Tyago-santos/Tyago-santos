@@ -202,15 +202,16 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<p align="center">
-  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tyago-santos&theme=github_dark" alt="Estatísticas do perfil"/>
-  <img height="170px" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=15&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e" alt="Sequência de contribuições"/>
-  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" alt="Linguagens"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tyago-santos&theme=github_dark" alt="Horários mais produtivos"/>
-</p>
+<table align="center">
+<tr>
+  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tyago-santos&theme=github_dark" alt="Estatísticas do perfil"/></td>
+  <td align="center"><img height="200" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=12&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e" alt="Sequência de contribuições"/></td>
+</tr>
+<tr>
+  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" alt="Linguagens mais usadas"/></td>
+  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tyago-santos&theme=github_dark" alt="Horários mais produtivos"/></td>
+</tr>
+</table>
 
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
