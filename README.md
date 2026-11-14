@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+Full+Stack+e+IA;Ciência+da+Computação+na+UNEX;Apaixonado+por+Tecnologia🚀" alt="Tiago Santos - Desenvolvedor Full Stack e IA"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=28&center=true&vCenter=true&width=600&lines=Olá+👋,+eu+sou+Tiago+Santos;Desenvolvedor+Full+Stack+e+IA;Sistemas+de+Informação+na+UNEX;Apaixonado+por+Tecnologia🚀" alt="Tiago Santos - Desenvolvedor Full Stack e IA"/>
 </p>
 
 <p align="center">
