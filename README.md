@@ -204,20 +204,20 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 
 <table align="center">
 <tr>
-  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tyago-santos&theme=github_dark" alt="Estatísticas do perfil"/></td>
-  <td align="center"><img height="200" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=12&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e" alt="Sequência de contribuições"/></td>
+  <td align="center"><img height="200" src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/estatisticas.svg" alt="Estatísticas do perfil em português"/></td>
+  <td align="center"><img height="200" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=12&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e&locale=pt" alt="Sequência de contribuições"/></td>
 </tr>
 <tr>
-  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" alt="Linguagens mais usadas"/></td>
-  <td align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tyago-santos&theme=github_dark" alt="Horários mais produtivos"/></td>
+  <td align="center"><img height="200" src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/linguagens.svg" alt="Linguagens por repositório em português"/></td>
+  <td align="center"><img height="200" src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/contribuicoes.svg" alt="Contribuições dos últimos 12 meses em português"/></td>
 </tr>
 </table>
 
 <details>
-<summary><b>🐍 Contribution Snake</b></summary>
+<summary><b>🐍 Cobrinha de contribuições</b></summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/output/pacman-contribution-graph-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/output/pacman-contribution-graph-dark.svg" alt="Cobrinha de contribuições"/>
 </p>
 </details>
 
