@@ -203,19 +203,13 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Tyago-santos&show_icons=true&include_all_commits=true&hide_border=true&border_radius=15&theme=tokyonight" alt="Stats"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyago-santos&layout=compact&hide_border=true&border_radius=15&theme=tokyonight" alt="Linguagens"/>
-  <img height="190px" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=15&theme=tokyonight" alt="Streak"/>
+  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tyago-santos&theme=github_dark" alt="Estatísticas do perfil"/>
+  <img height="170px" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=15&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e" alt="Sequência de contribuições"/>
+  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyago-santos&theme=github_dark" alt="Linguagens"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tyago-santos&no-frame=true&theme=tokyonight&row=1&column=7&margin-w=8" alt="Conquistas"/>
-</p>
-
-<h2 align="center">📈 Contribuições</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyago-santos&theme=tokyonight&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Gráfico de contribuições"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tyago-santos&theme=github_dark" alt="Horários mais produtivos"/>
 </p>
 
 <details>
@@ -227,10 +221,6 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=120&section=footer" alt="footer"/>
-</p>
 
 <p align="center">
   ⭐ <b>Obrigado por visitar meu perfil</b> ⭐<br/>
