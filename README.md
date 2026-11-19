@@ -142,6 +142,41 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 
 ---
 
+<h2 align="center">🤖 Tiago AI — Meu Assistente Virtual</h2>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os **meus projetos**. Ela responde perguntas sobre minha experiência, tecnologias e repositórios — e traz os links diretos de cada projeto.
+
+<p align="left">
+  <a href="https://tyago-santos.github.io/tiago-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Conversar_com_a_IA-00ff00?style=for-the-badge&logo=googlegemini&logoColor=0d1117" alt="Conversar com o Tiago AI"/>
+  </a>
+</p>
+
+<sub>
+<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+</sub>
+
+</td>
+<td width="45%" align="center">
+
+<a href="https://tyago-santos.github.io/tiago-ai/">
+  <img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/tiago-ai.svg" width="340" alt="Tiago AI — assistente virtual"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">🚀 Tecnologias</h2>
 
 <table align="center">
