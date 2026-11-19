@@ -151,7 +151,7 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os **meus projetos**. Ela responde perguntas sobre minha experiência, tecnologias e repositórios — e traz os links diretos de cada projeto.
 
 <p align="left">
-  <a href="https://tyago-santos.github.io/tiago-ai/" target="_blank">
+  <a href="https://tyago-santos.github.io/tiago-ai/#/chat" target="_blank">
     <img src="https://img.shields.io/badge/💬_Conversar_com_a_IA-00ff00?style=for-the-badge&logo=googlegemini&logoColor=0d1117" alt="Conversar com o Tiago AI"/>
   </a>
 </p>
@@ -167,7 +167,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </td>
 <td width="45%" align="center">
 
-<a href="https://tyago-santos.github.io/tiago-ai/">
+<a href="https://tyago-santos.github.io/tiago-ai/#/chat">
   <img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/tiago-ai.svg" width="340" alt="Tiago AI — assistente virtual"/>
 </a>
 
