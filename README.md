@@ -178,9 +178,9 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 
 <h2 align="center">🚀 Tecnologias</h2>
 
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="8">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" bgcolor="#161b22">
+<td width="50%" valign="top">
 
 <h3 align="center">💻 Linguagens</h3>
 
@@ -191,7 +191,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </p>
 
 </td>
-<td width="50%" valign="top" bgcolor="#161b22">
+<td width="50%" valign="top">
 
 <h3 align="center">🎨 Front-end</h3>
 
@@ -208,9 +208,12 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" bgcolor="#161b22">
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="center">⚙️ Back-end &amp; Dados</h3>
+<h3 align="center">⚙️ Back-end</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
@@ -219,6 +222,14 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=000000"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Banco de dados</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D"/>
@@ -228,9 +239,14 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </p>
 
 </td>
-<td width="50%" valign="top" bgcolor="#161b22">
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="center">🤖 IA &amp; Infra</h3>
+<h3 align="center">🤖 IA</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/IA_&_Agentes-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -239,6 +255,14 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Infra</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
