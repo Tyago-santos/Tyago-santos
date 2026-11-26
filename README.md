@@ -117,18 +117,29 @@ Plataforma de aprendizado de idiomas com questões geradas por Inteligência Art
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Connect Dev](https://github.com/Tyago-santos/connect-dev)
-Rede social para desenvolvedores: posts, curtidas, comentários e seguidores.
+#### 🔹 [Nexus CRM](https://github.com/Tyago-santos/nexus-crm)
+CRM multi-tenant com WhatsApp e agentes de IA para clientes, leads e vendas.
 
-<sub><code>Node.js</code> <code>Express</code> <code>TypeScript</code></sub>
+<sub><code>TypeScript</code> <code>Fastify</code> <code>React</code> <code>Supabase</code> <code>Gemini</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [Promise](https://github.com/Tyago-santos/promise)
-Rede social para conexão e novas amizades dentro da comunidade cristã.
+#### 🔹 [Libras IA](https://github.com/Tyago-santos/libras-ai)
+Tradutor de português para Libras com avatar 3D — fala, texto e sinais.
 
-<sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code></sub>
+<sub><code>TypeScript</code> <code>React Native</code> <code>Expo</code> <code>Fastify</code> <code>Gemini</code></sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h4 align="center">🔹 <a href="https://github.com/Tyago-santos/domino">Domino Vittas</a></h4>
+
+<p align="center">Dashboard de dominó com mesa jogável, estatísticas, ranking e duplas em tempo real.</p>
+
+<p align="center"><sub><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Vitest</code></sub></p>
 
 </td>
 </tr>
@@ -136,7 +147,7 @@ Rede social para conexão e novas amizades dentro da comunidade cristã.
 
 <p align="center">
   <a href="https://github.com/Tyago-santos?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_os_30_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver_todos_os_32_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
