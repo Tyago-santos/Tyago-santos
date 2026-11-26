@@ -147,7 +147,7 @@ Tradutor de português para Libras com avatar 3D — fala, texto e sinais.
 
 <p align="center">
   <a href="https://github.com/Tyago-santos?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_os_32_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver_todos_os_34_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
