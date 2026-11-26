@@ -160,7 +160,6 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini API"/>
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 <img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
 </sub>
 
@@ -229,8 +228,6 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </td>
 </tr>
