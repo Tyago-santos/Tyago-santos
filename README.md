@@ -267,6 +267,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/dokploy.svg" alt="Dokploy"/>
 </p>
 
 </td>
