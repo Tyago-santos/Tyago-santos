@@ -178,21 +178,24 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 
 <h2 align="center">🚀 Tecnologias</h2>
 
-<table align="center">
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td width="25%" align="center">
+<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 
-**💻 Linguagens**
+<h3 align="center">💻 Linguagens</h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 
-**🎨 Front-end**
+<h3 align="center">🎨 Front-end</h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
@@ -200,12 +203,16 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 
-**⚙️ Back-end & Dados**
+<h3 align="center">⚙️ Back-end &amp; Dados</h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
@@ -218,12 +225,14 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
 <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+</p>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 
-**🤖 IA & Infra**
+<h3 align="center">🤖 IA &amp; Infra</h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/IA_&_Agentes-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge"/>
@@ -234,6 +243,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+</p>
 
 </td>
 </tr>
