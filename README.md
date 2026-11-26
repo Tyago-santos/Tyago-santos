@@ -178,9 +178,9 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 
 <h2 align="center">🚀 Tecnologias</h2>
 
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="8">
 <tr>
-<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<td width="50%" valign="top" bgcolor="#161b22">
 
 <h3 align="center">💻 Linguagens</h3>
 
@@ -191,7 +191,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </p>
 
 </td>
-<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<td width="50%" valign="top" bgcolor="#161b22">
 
 <h3 align="center">🎨 Front-end</h3>
 
@@ -208,7 +208,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<td width="50%" valign="top" bgcolor="#161b22">
 
 <h3 align="center">⚙️ Back-end &amp; Dados</h3>
 
@@ -228,7 +228,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
 </p>
 
 </td>
-<td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<td width="50%" valign="top" bgcolor="#161b22">
 
 <h3 align="center">🤖 IA &amp; Infra</h3>
 
