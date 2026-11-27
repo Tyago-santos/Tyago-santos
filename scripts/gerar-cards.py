@@ -169,27 +169,33 @@ def card_linguagens(linguagens):
     total = sum(linguagens.values()) or 1
     itens = sorted(linguagens.items(), key=lambda item: -item[1])[:8]
 
-    # A altura acompanha o número de linguagens exibidas (5 linhas = 200 px).
-    altura = 80 + 24 * len(itens)
-    svg = [cartao((340, altura)), texto(22, 36, "Linguagens por repositório", 15, AZUL, "bold")]
-
-    cx, cy, raio, grossura = 92, 62 + 12 * len(itens), 52, 22
-    angulo = 0.0
+    # Layout no estilo da barra de linguagens do GitHub.
+    altura = 70 + 20 * len(itens)
+    svg = [cartao((340, altura))]
+    svg.append(texto(22, 32, "Linguagens por repositório", 14, AZUL, "bold"))
+    svg.append(
+        '<defs><clipPath id="barra-clip">'
+        '<rect x="22" y="50" width="296" height="8" rx="4"/></clipPath></defs>'
+    )
+    svg.append('<rect x="22" y="50" width="296" height="8" rx="4" fill="#21262d"/>')
+    svg.append('<g clip-path="url(#barra-clip)">')
+    x = 22.0
     for nome, quantidade in itens:
-        fatia = quantidade / total
+        largura = (quantidade / total) * 296
         cor = CORES_LINGUAGEM.get(nome, "#8b949e")
-        svg.append(f'<g stroke="{cor}" fill="none" stroke-width="{grossura}">')
-        svg.append(arco(cx, cy, raio, grossura, angulo, fatia))
-        svg.append("</g>")
-        angulo += fatia
+        svg.append(f'<rect x="{x:.2f}" y="50" width="{largura:.2f}" height="8" fill="{cor}"/>')
+        x += largura
+    svg.append("</g>")
 
-    y = 74
+    y = 84
     for nome, quantidade in itens:
         cor = CORES_LINGUAGEM.get(nome, "#8b949e")
-        svg.append(f'<rect x="176" y="{y - 9}" width="10" height="10" rx="2" fill="{cor}"/>')
-        svg.append(texto(194, y, nome, 12, "#c9d1d9"))
+        porcentagem = (quantidade / total) * 100
+        svg.append(f'<circle cx="30" cy="{y - 4}" r="5" fill="{cor}"/>')
+        svg.append(texto(42, y, nome, 12, "#c9d1d9"))
+        svg.append(texto(228, y, f"{porcentagem:.1f}%", 11, CINZA, None, "end"))
         svg.append(texto(318, y, str(quantidade), 12, BRANCO, "bold", "end"))
-        y += 24
+        y += 20
     svg.append("</svg>")
     return "".join(svg)
 
