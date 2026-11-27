@@ -295,7 +295,7 @@ Converse com uma **Inteligência Artificial** para saber mais sobre **mim** e os
   <td align="center"><img height="200" src="https://streak-stats.demolab.com/?user=Tyago-santos&hide_border=true&border_radius=12&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=8b949e&dates=8b949e&locale=pt" alt="Sequência de contribuições"/></td>
 </tr>
 <tr>
-  <td align="center"><img height="200" src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/linguagens.svg" alt="Linguagens por repositório em português"/></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/linguagens.svg" alt="Linguagens por repositório em português"/></td>
   <td align="center"><img height="200" src="https://raw.githubusercontent.com/Tyago-santos/Tyago-santos/main/.github/cards/contribuicoes.svg" alt="Contribuições dos últimos 12 meses em português"/></td>
 </tr>
 </table>

@@ -166,11 +166,14 @@ def arco(cx, cy, raio, grossura, inicio, comprimento):
 
 
 def card_linguagens(linguagens):
-    svg = [cartao(), texto(22, 36, "Linguagens por repositório", 15, AZUL, "bold")]
     total = sum(linguagens.values()) or 1
-    itens = sorted(linguagens.items(), key=lambda item: -item[1])[:5]
+    itens = sorted(linguagens.items(), key=lambda item: -item[1])[:8]
 
-    cx, cy, raio, grossura = 92, 118, 52, 22
+    # A altura acompanha o número de linguagens exibidas (5 linhas = 200 px).
+    altura = 80 + 24 * len(itens)
+    svg = [cartao((340, altura)), texto(22, 36, "Linguagens por repositório", 15, AZUL, "bold")]
+
+    cx, cy, raio, grossura = 92, 62 + 12 * len(itens), 52, 22
     angulo = 0.0
     for nome, quantidade in itens:
         fatia = quantidade / total
